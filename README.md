@@ -13,7 +13,7 @@ This project focuses on predicting loan approvals based on various features of t
 5. **Data Preprocessing**: Handling missing values, encoding categorical variables, and scaling features.
 6. **Model Building**: Creating and training machine learning models to predict loan approval.
 7. **Model Evaluation**: Evaluating the performance of the models using appropriate metrics.
-8. **Conclusion**: Summary of findings and future work.
+8. **Conclusion**: Summary of findings.
 
 ## Installation
 
@@ -23,7 +23,3 @@ To run this project, you need to have Python installed along with the following 
 - seaborn
 - matplotlib
 - scikit-learn
-
-You can install these libraries using pip:
-```bash
-pip install pandas numpy seaborn matplotlib scikit-learn
